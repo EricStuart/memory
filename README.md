@@ -1,5 +1,7 @@
 # Local development experience index
 
+中文版本：[README.zh-CN.md](README.zh-CN.md)
+
 > Source: the local Codex memory index. Records are grouped by project, with local usernames, internal addresses, and credential-like data generalized.
 
 These notes capture boundaries, implementation paths, verification methods, failure modes, and reusable operations. Re-check entries marked partial, uncertain, or unverified against the current source, runtime, and deployment state.
